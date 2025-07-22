@@ -1,5 +1,1 @@
-local Data = {}
-Data.OS = "Arte OS"
-Data.WelcomeText = "Welcome To ".. Data.OS.. "!"
-
-print(Data.WelcomeText)
+print("Welcome To Arte OS!")
